@@ -11,4 +11,4 @@ I made the project with only HTML and CSS, for desktop.
 
 
 
-        
+        LIVE: https://funiturejunior.vercel.app/
